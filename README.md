@@ -167,7 +167,8 @@ ii) Using Weighted Averaging Filter
 
 iii) Using Gaussian Filter
 
-![image](https://github.com/Jaiganesh235/Implementation-of-filter/assets/118657189/ecb9910c-b565-4826-beff-3219b155dcb5)
+![image](https://github.com/Jaiganesh235/Implementation-of-filter/assets/118657189/3fa17daa-d492-4572-b825-d2afdeacfc4e)
+
 
 
 iv) Using Median Filter
